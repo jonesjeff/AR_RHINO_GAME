@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ARToolKit5-Unity/Example Scenes/SimpleNFTScene.unity
+- path: Assets/Scenes/NFTRhinoScene.unity
   isLoaded: 1
   isActive: 1
