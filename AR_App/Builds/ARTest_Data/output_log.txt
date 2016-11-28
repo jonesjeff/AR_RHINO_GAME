@@ -1,0 +1,262 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Jeff Jones\Documents\GitHub\AR_RHINO_GAME\AR_App\Builds\ARTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.631610 ms
+ARController: ARToolKit version 5.3.2 initialised.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [error]Loading D:/Users/Jeff Jones/Documents/GitHub/AR_RHINO_GAME/AR_App/Builds/ARTest_Data/StreamingAssets\poachingPoster.fset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+### Surface No.1 ###
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+  Read ImageSet.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Imageset contains 9 images.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+    end.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+  Read FeatureSet.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+    end.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]First NFT marker added; enabling NFT marker detection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Added marker (UID=0), total markers loaded: 1.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Starting AR.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Render device: Direct3D 11.0 [level 11.0], using Unity texturing.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Starting ARToolKit video with vconf '-showDialog -flipV'.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]ARController::startRunning(): called, start running
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Setting video configuration '-showDialog -flipV'.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Settting camera parameters buffer: 176 bytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Opening ARToolKit video using configuration '-showDialog -flipV'.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Opened ARToolKit video 640x360@3Bpp (AR_PIXEL_FORMAT_BGR).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Camera parameters loaded from buffer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Setting ARToolKit tracking settings.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: UpdateAR: Waiting for ARToolKit video.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3740 -> priority: 1 
+  Thread -> id: 1868 -> priority: 1 
+ARController: UpdateAR: ARToolKit video is running. Configuring Unity scene for video.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Video 640x360@3Bpp (AR_PIXEL_FORMAT_BGR)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Projection matrix: [
+1.67196	0.00000	0.01443	0.00000
+0.00000	2.23192	-0.05282	0.00000
+0.00000	0.00000	-1.00401	-0.02004
+0.00000	0.00000	-1.00000	0.00000]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Video size 640x360 will use texture size 640x360.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Scene configured for video.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]ARController::initNFT(): called, initialising NFT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Performance warning: KPM processing is not using a mono pixel format.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tracking thread = 8
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Using NFT tracking settings for more than one CPU
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Loading NFT data
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Reading D:/Users/Jeff Jones/Documents/GitHub/AR_RHINO_GAME/AR_App/Builds/ARTest_Data/StreamingAssets\poachingPoster.fset3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]  Assigned page no. 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Done
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start tracking_thread #0.
+Start tracking_thread #3.
+Start tracking_thread #2.
+Start tracking_thread #1.
+Start tracking_thread #7.
+Start tracking_thread #5.
+Start tracking_thread #6.
+Start tracking_thread #4.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-398
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-397
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-357
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-349
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-482
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-326
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-222
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-162
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+points-113
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Starting NFT tracking thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController: Stopping AR.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Stopping NFT tracking thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Closing ARToolKit video.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 0.222248 ms (FindLiveObjects: 0.023685 ms CreateObjectMapping: 0.021316 ms MarkObjects: 0.172903 ms  DeleteObjects: 0.003552 ms)
+
+ARController: Shutting down ARToolKit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ARController (native): [info]Removed all 1 markers.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
